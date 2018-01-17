@@ -1,0 +1,4 @@
+C:\Users\Lokesh\Documents\Visual Studio 2015\Projects\RegApp\RegAppBuisnessLogicLayer\bin\Release\RegAppBuisnessLogicLayer.dll
+C:\Users\Lokesh\Documents\Visual Studio 2015\Projects\RegApp\RegAppBuisnessLogicLayer\bin\Release\RegAppBuisnessLogicLayer.pdb
+C:\Users\Lokesh\Documents\Visual Studio 2015\Projects\RegApp\RegAppBuisnessLogicLayer\obj\Release\RegAppBuisnessLogicLayer.dll
+C:\Users\Lokesh\Documents\Visual Studio 2015\Projects\RegApp\RegAppBuisnessLogicLayer\obj\Release\RegAppBuisnessLogicLayer.pdb
